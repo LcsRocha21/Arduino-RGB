@@ -1,4 +1,4 @@
-Este repositório contém o código para um veículo autônomo baseado em Arduino, projetado para simular um robô seguidor de linha com detecção de obstáculos e respostas visuais. O sistema combina sensores infravermelhos, RGB e ultrassônicos, além de LEDs, para executar as seguintes funcionalidades:
+Este repositório contém o código para um veículo autônomo baseado em Arduino, desenvolvido para um projeto de faculdade, onde ele deve simular um robô seguidor de linha com detecção de obstáculos e respostas visuais. O sistema combina sensores infravermelhos, RGB e ultrassônicos, além de LEDs, para executar as seguintes funcionalidades:
 
 Funcionalidades
 1. Seguir a Faixa Branca
